@@ -37,7 +37,7 @@ src/main/java/com/taskscheduler/
 ├── model/          → Task entity
 ├── repository/     → Database operations (JPA)
 ├── service/        → Business logic + Groq AI integration
-└── controller/     → REST API endpoints
+└── controller/     → REST API endpoint
 ```
 
 ## 🔌 REST API Endpoints
